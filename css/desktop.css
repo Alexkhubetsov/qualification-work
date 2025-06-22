@@ -9,7 +9,7 @@
                     padding: 24px 15px;
                 }
                 .logo {
-                    margin-right: 76px;
+                    margin-right: 40px;
                 }
                 .address-list {
                     flex-direction: row;
@@ -24,8 +24,9 @@
                     padding: 188px 0;
                 }
                         .page-title {
-                margin: 0 auto 48px;
+                margin: 0 auto 15px;
                         }
+                  
         /* #endregion Hero */
 
 /* #region properties */
@@ -92,21 +93,12 @@
 /* #endregion Our Portfolio */
 
 /* #region footer */
-.footer {
-    padding: 100px 0;
 
-}
-.footer-list {
-    margin-right: 120px;
-}
-.footer-socials-div {
-    margin-right: 80px;
-}
+
 .footer-div {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     padding-left: 15px;
     gap: 0;
 }
 /* #endregion footer */
-
-    }
+}
